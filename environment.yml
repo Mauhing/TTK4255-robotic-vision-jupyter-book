@@ -1,9 +1,10 @@
 name: ttk4255
 dependencies:
   - python=3.7
-    - pip:
-      - numpy
-      - matplotlib
-      - opencv-python
-      - Pillow
-      - watermark
+  - pip
+  - pip:
+    - numpy
+    - matplotlib
+    - opencv-python
+    - Pillow
+    - watermark
