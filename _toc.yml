@@ -4,5 +4,4 @@
 format: jb-book
 root: intro.md
 chapters:
-- file: markdown.md
 - file: L01.ipynb
