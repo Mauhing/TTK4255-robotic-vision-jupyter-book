@@ -1,5 +1,5 @@
 numpy==1.21.2
 matplotlib==3.5.0
-opencv==4.5.3
+opencv-python==4.5.3
 pillow==8.4.0
 watermark==2.3.0
