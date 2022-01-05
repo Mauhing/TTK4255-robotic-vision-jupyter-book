@@ -1,3 +1,5 @@
-jupyter-book
-matplotlib
-numpy
+numpy==1.21.2
+matplotlib==3.5.0
+cv2==4.5.3
+PIL==8.4.0
+watermark==2.3.0
