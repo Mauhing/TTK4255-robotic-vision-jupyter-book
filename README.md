@@ -18,7 +18,7 @@ Just click the badge under.
 
 ## Use it locally (Run much faster than binder)
 ### Installation
-You should have `conda` package management. I suggest you download it with anaconda. To install anaconda, click [here](https://www.anaconda.com/products/individual). Then do the following in your terminal:
+You should have `conda` package management. If you do not have it install, i suggest you download and install it with anaconda. To install anaconda, click [here](https://www.anaconda.com/products/individual). Now, you can do the following in your terminal:
 1. `git clone https://github.com/Mauhing/TTK4255-robotic-vision-jupyter-book.git`
 2. `cd TTK4255-robotic-vision-jupyter-book`
 3. `conda env create -f environment_local.yml` NB!!! It is `environment_local.yml`, not `environment.yml`.
