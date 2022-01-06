@@ -12,10 +12,22 @@ right corner.
 This jupyter notebooks does not cover everything of the lecture slide.
 It is just a supplementary in a interactive way.
 ```
-## Use it online (the most easy way)
+## Use it online (The most easy way)
 Just click the badge under.  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mauhing/TTK4255-robotic-vision-jupyter-book/main)
 
-## Use it locally (Run much faster)
+## Use it locally (Run much faster than binder)
 ### Installation
-You should have `conda` package management. I suggest you download it with anaconda. To install anaconda, click [here](https://www.anaconda.com/products/individual).
+You should have `conda` package management. I suggest you download it with anaconda. To install anaconda, click [here](https://www.anaconda.com/products/individual). Then do the following in your terminal:
+1. `git clone https://github.com/Mauhing/TTK4255-robotic-vision-jupyter-book.git`
+2. `cd TTK4255-robotic-vision-jupyter-book`
+3. `conda env create -f environment_local.yml`
+
+### Use jupyter-notebook
+5. `jupyter-lab .`
+6. Open the jupyter-notebook you want and paly
+
+### Compiler jupyter-book
+7. `jupyter-book build . --all`
+8. Use your browser to open `_build/html/index.html`
+9. Enjoy.
