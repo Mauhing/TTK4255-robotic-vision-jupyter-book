@@ -27,7 +27,7 @@ You should have `conda` package management. If you do not have it install, i sug
 5. `jupyter-lab .`
 6. Open the jupyter-notebook you want and paly
 
-### Compiler jupyter-book
+### Compile jupyter-book
 7. `jupyter-book build . --all`
 8. Use your browser to open `_build/html/index.html`
 9. Enjoy.
