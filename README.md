@@ -16,6 +16,6 @@ It is just a supplementary in a interactive way.
 Just click the badge under.  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mauhing/TTK4255-robotic-vision-jupyter-book/main)
 
-## Use it locally
+## Use it locally (Run much faster)
 ### Installation
 You should have `conda` package management. I suggest you download it with anaconda. To install anaconda, click [here](https://www.anaconda.com/).
