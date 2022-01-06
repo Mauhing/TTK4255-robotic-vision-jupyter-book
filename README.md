@@ -21,7 +21,7 @@ Just click the badge under.
 You should have `conda` package management. I suggest you download it with anaconda. To install anaconda, click [here](https://www.anaconda.com/products/individual). Then do the following in your terminal:
 1. `git clone https://github.com/Mauhing/TTK4255-robotic-vision-jupyter-book.git`
 2. `cd TTK4255-robotic-vision-jupyter-book`
-3. `conda env create -f environment_local.yml`
+3. `conda env create -f environment_local.yml` NB!!! It is `environment_local.yml`, not `environment.yml`.
 
 ### Use jupyter-notebook
 5. `jupyter-lab .`
