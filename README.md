@@ -12,3 +12,10 @@ right corner.
 This jupyter notebooks does not cover everything of the lecture slide.
 It is just a supplementary in a interactive way.
 ```
+## Use it online (the most easy way)
+Just click the badge under.  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mauhing/TTK4255-robotic-vision-jupyter-book/main)
+
+## Use it locally
+### Installation
+You should have `conda` package 
