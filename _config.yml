@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: TTK4255 robotic vision jupyter book
+title: TTK4255 Robotic Vision Jupyter Book
 author: The Jupyter Book Community
-logo: logo.png
+logo: ntnu_hoeyde_eng.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

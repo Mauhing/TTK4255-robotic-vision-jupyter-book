@@ -4,6 +4,7 @@ dependencies:
   - pip
   - pip:
     - numpy
+    - scipy
     - matplotlib
     - opencv-python
     - Pillow

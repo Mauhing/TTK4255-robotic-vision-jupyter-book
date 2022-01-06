@@ -16,7 +16,7 @@ It is just a supplementary in a interactive way.
 Just click the badge under.  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mauhing/TTK4255-robotic-vision-jupyter-book/main)
 
-## Use it locally (Run much faster than binder)
+## Use it offline (Run much faster than binder)
 ### Installation
 You should have `conda` package management. If you do not have it install, i suggest you download and install it with anaconda. To install anaconda, click [here](https://www.anaconda.com/products/individual). Now, you can do the following in your terminal:
 1. `git clone https://github.com/Mauhing/TTK4255-robotic-vision-jupyter-book.git`
