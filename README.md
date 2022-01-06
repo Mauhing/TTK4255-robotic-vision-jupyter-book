@@ -1,4 +1,4 @@
-# Welcome to TTK4255-robotic-vision-jupyter-book.
+# Welcome to TTK4255-robotic-vision-jupyter-book
 These jupyter-(note)book servers as supplementary and does not define the syllabus.
 It is handful to use it **during** the lecture.
 
