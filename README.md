@@ -18,4 +18,4 @@ Just click the badge under.
 
 ## Use it locally (Run much faster)
 ### Installation
-You should have `conda` package management. I suggest you download it with anaconda. To install anaconda, click [here](https://www.anaconda.com/).
+You should have `conda` package management. I suggest you download it with anaconda. To install anaconda, click [here](https://www.anaconda.com/products/individual).
