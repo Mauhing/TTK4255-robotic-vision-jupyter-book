@@ -3,7 +3,7 @@
 
 title: TTK4255 Robotic Vision Jupyter Book
 author: The Jupyter Book Community
-logo: ntnu_hoeyde_eng.png
+logo: logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
