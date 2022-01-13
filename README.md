@@ -6,8 +6,6 @@ You can also use binder to change the code and see the effect immidiately. It is
 However, if you want to run it locally, you can click the githud hyperlink at the top
 right corner.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Mauhing/TTK4255-robotic-vision-jupyter-book/main)
-
 ```{caution}
 This jupyter notebooks does not cover everything of the lecture slide.
 It is just a supplementary in a interactive way.
