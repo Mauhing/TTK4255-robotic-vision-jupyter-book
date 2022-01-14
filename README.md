@@ -20,6 +20,7 @@ You should have `conda` package management. If you do not have it install, i sug
 1. `git clone https://github.com/Mauhing/TTK4255-robotic-vision-jupyter-book.git`
 2. `cd TTK4255-robotic-vision-jupyter-book`
 3. `conda env create -f environment_local.yml` NB!!! It is `environment_local.yml`, not `environment.yml`.
+4. `conda activate ttk4255`
 
 ### Use jupyter-notebook
 5. `jupyter-lab .`
